@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Gallery</string>
+    <string name="title_img1">My Title 1</string>
+    <string name="title_img2">My Title 2</string>
+    <string name="title_img3">My Title 3</string>
+    <string name="title_img4">My Title 4</string>
+    <string name="title_img5">My Title 5</string>
+    <string name="title_img6">My Title 6</string>
+    <string name="subtitle_img1">Subtitle 1</string>
+    <string name="subtitle_img2">Subtitle 2</string>
+    <string name="subtitle_img3">Subtitle 3</string>
+    <string name="subtitle_img4">Subtitle 4</string>
+    <string name="subtitle_img5">Subtitle 5</string>
+    <string name="subtitle_img6">Subtitle 6</string>
+</resources>
